@@ -1,0 +1,45 @@
+D:\tatvasoft3\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+D:\tatvasoft3\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+D:\tatvasoft3\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\tatvasoft3\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+D:\tatvasoft3\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+D:\tatvasoft3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+D:\tatvasoft3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\tatvasoft3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+D:\tatvasoft3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+D:\tatvasoft3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+D:\tatvasoft3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+D:\tatvasoft3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+D:\tatvasoft3\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+D:\tatvasoft3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+D:\tatvasoft3\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+D:\Tatvsoft_Internship\Day-9\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+D:\Tatvsoft_Internship\Day-9\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+D:\Tatvsoft_Internship\Day-9\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\Tatvsoft_Internship\Day-9\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+D:\Tatvsoft_Internship\Day-9\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+D:\Tatvsoft_Internship\Day-9\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+D:\Tatvsoft_Internship\Day-9\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tatvsoft_Internship\Day-9\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+D:\Tatvsoft_Internship\Day-9\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+D:\Tatvsoft_Internship\Day-9\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+D:\Tatvsoft_Internship\Day-9\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+D:\Tatvsoft_Internship\Day-9\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+D:\Tatvsoft_Internship\Day-9\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+D:\Tatvsoft_Internship\Day-9\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+D:\Tatvsoft_Internship\Day-9\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+C:\Users\parth\source\repos\Day 8\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+C:\Users\parth\source\repos\Day 8\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Users\parth\source\repos\Day 8\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\parth\source\repos\Day 8\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\parth\source\repos\Day 8\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\parth\source\repos\Day 8\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+C:\Users\parth\source\repos\Day 8\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parth\source\repos\Day 8\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+C:\Users\parth\source\repos\Day 8\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+C:\Users\parth\source\repos\Day 8\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\parth\source\repos\Day 8\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+C:\Users\parth\source\repos\Day 8\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+C:\Users\parth\source\repos\Day 8\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+C:\Users\parth\source\repos\Day 8\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\parth\source\repos\Day 8\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
